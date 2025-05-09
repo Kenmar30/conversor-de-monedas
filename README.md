@@ -8,7 +8,9 @@ Aplicación de consola en Java que permite convertir entre distintas monedas uti
 - Menú interactivo en consola
 - Conversión directa e inversa
 - Uso de HttpClient y Gson
+- Historial de conversion
+- Conversion entre otras monedas
 
 ## Autor
 
-Kenmar 👨‍💻
+Kenmar (Kenny Salgar) 👨‍💻
